@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "r.proxy"]
+	path = r.proxy
+	url = https://github.com/xiayh17/r.proxy
+	shallow = true
+	registered = true
 [submodule "scRNAstat"]
 	path = scRNAstat
 	url = https://github.com/cran/scRNAstat
